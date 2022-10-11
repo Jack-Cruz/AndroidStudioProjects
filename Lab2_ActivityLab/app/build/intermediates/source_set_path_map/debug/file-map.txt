@@ -1,0 +1,8 @@
+course.labs.activitylab.app-pngs-0 /home/jackcruzmamani/AndroidStudioProjects/Lab2_ActivityLab/app/build/generated/res/pngs/debug
+course.labs.activitylab.app-resValues-1 /home/jackcruzmamani/AndroidStudioProjects/Lab2_ActivityLab/app/build/generated/res/resValues/debug
+course.labs.activitylab.app-rs-2 /home/jackcruzmamani/AndroidStudioProjects/Lab2_ActivityLab/app/build/generated/res/rs/debug
+course.labs.activitylab.app-mergeDebugResources-3 /home/jackcruzmamani/AndroidStudioProjects/Lab2_ActivityLab/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+course.labs.activitylab.app-mergeDebugResources-4 /home/jackcruzmamani/AndroidStudioProjects/Lab2_ActivityLab/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+course.labs.activitylab.app-merged_res-5 /home/jackcruzmamani/AndroidStudioProjects/Lab2_ActivityLab/app/build/intermediates/merged_res/debug
+course.labs.activitylab.app-debug-6 /home/jackcruzmamani/AndroidStudioProjects/Lab2_ActivityLab/app/src/debug/res
+course.labs.activitylab.app-main-7 /home/jackcruzmamani/AndroidStudioProjects/Lab2_ActivityLab/app/src/main/res
